@@ -1,0 +1,7 @@
+packages:
+  # include apps and packages
+  - 'app'
+  - 'packages/**'
+  - 'storybook'
+  # if required, exclude some directories
+  - '!**/test/**'
