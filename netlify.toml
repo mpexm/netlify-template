@@ -10,3 +10,7 @@
 
   # Default build command.
   command = "pnpm build"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
+
